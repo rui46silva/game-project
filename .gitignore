@@ -1,0 +1,55 @@
+# ===== Unreal Engine 5 =====
+# Ficheiros gerados pelo motor / build
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+!Build/**/*.ico
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Ficheiros de projeto gerados (regenerar com "Generate Visual Studio project files")
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+.vs/
+.vscode/
+.idea/
+*.code-workspace
+
+# Builds compilados (os .obj do MSVC ficam em Intermediate/, já ignorado)
+*.exe
+*.dll
+*.pdb
+*.lib
+*.exp
+*.o
+*.ilk
+*.ipch
+*.app
+*.dylib
+*.so
+*.target
+
+# Pacotes / distribuição
+Packaged/
+Releases/
+*.pak
+*.ucas
+*.utoc
+
+# Ficheiros temporários do Blender / Substance / Krita
+*.blend1
+*.blend2
+*.spp.autosave
+*~
+*.kra~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
