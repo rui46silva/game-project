@@ -12,6 +12,7 @@ Jogo de corridas de rua noturno em mundo aberto, com tuning visual profundo e um
 |---|---|
 | [docs/PLANO_DESENVOLVIMENTO.md](docs/PLANO_DESENVOLVIMENTO.md) | Conceito, pilares de design, stack, roadmap (Fases 0-8), primeiras 4 semanas, riscos |
 | [docs/GUIAO.md](docs/GUIAO.md) | Mundo (Costa Néon e distritos), personagens e história (Prólogo, Atos I-III, Epílogo) |
+| [docs/SETUP_AMBIENTE.md](docs/SETUP_AMBIENTE.md) | Instalação passo a passo do ambiente (Git LFS, Visual Studio, Unreal) e criação do projeto |
 
 ## Pilares de design
 
